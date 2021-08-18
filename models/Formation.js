@@ -7,3 +7,8 @@ const formationSchema = mongoose.Schema({
     date:{type:String, require: true},
 })
 module.exports = mongoose.model("Formation", formationSchema);
+
+
+
+//f tjr F designer la table  description de table 
+//
